@@ -1,4 +1,4 @@
 This is sampletest repository.
 
-Atiq
+Atiq Ur Rehman
 Software Engineer
